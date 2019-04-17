@@ -7,7 +7,7 @@ add:
 Given a string, insert the string into the hash table according to hash function. If the given string already exists in the hash table, do nothing.  
 delete:  
 Delete a given string from the hash table. If the given string does not exist in the hash table, do nothing.  
-exist:
+exist:  
 Check whether a given string exists in the hash table.  
 
 ### Hash Function
